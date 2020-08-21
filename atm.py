@@ -98,4 +98,4 @@ while True:
         print("Please remove and collect yor card")
         print("Thank you & have a nice day")
     else:
-        print("Card not inserted\nPlease insert card to proceed further.\n     Thank You!!")
+        print("Card not inserted\nPlease insert card to proceed further.\n Thank You!!")
